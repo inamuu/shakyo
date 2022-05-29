@@ -8,4 +8,7 @@ func main() {
 	b := 7
 	fmt.Println(a)
 	fmt.Println(b)
+
+	a += 2
+	fmt.Println(b)
 }
